@@ -1,0 +1,18 @@
+html {font-family: verdana, arial, sans-rerif; background-color: lightgrey; 
+ }
+ body {
+ 	padding: 5%;
+ 	margin: 0px;
+ }
+ h2,h3 { text-align: center; margin: 50, 25; padding: 1%;
+ }
+ h1.kr-header-title {text-transform: uppercase; text-align: center;}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  display: inline;
+}
+li: hover
